@@ -347,3 +347,19 @@
   [hidden] {
     display: none;
   }
+
+header {
+  background-color: rgb(216, 216, 104);
+}
+
+nav {
+  display: inline-block;
+float: right;
+margin-top: 2rem;
+margin-right: 3rem;
+font-size: larger;
+}
+a {
+  margin: 0 0.7rem;
+  text-decoration: none;
+}
